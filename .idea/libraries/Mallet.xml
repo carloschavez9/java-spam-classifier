@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Mallet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/Mallet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/Mallet.jar!/" />
+    </SOURCES>
+  </library>
+</component>
